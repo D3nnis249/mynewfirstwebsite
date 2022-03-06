@@ -48,3 +48,14 @@ a.active {
 td {
   padding-bottom: 3%;
 }
+
+.kontakt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10% 0% 10% 0%;
+  gap: 3%;
+}
+
+/*Frage 1 : Break nutzen und wenn nicht alternative ?
+  Frage 2 : Tabelle genutzt weil es mit der Flex-box zu kompliziert war GAP ? */
