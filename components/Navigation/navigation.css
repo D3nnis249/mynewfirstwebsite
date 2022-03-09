@@ -1,0 +1,7 @@
+nav {
+    background-color: rgb(116, 97, 46);
+    border: 1px black solid;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+  }
