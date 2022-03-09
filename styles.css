@@ -23,6 +23,8 @@ body {
 }*/
 
 nav {
+  position: sticky;
+  top: 0px;
   background-color: rgb(116, 97, 46);
   border: 1px black solid;
   display: flex;
